@@ -1,0 +1,5 @@
+"id","name","min_year","max_year","min_floors","max_floors","isloadbearing"
+1,"Rock foundation",100,1850,0,100,NULL
+2,"Masonry foundation",1850,1910,0,100,NULL
+3,"Concrete foundation",1890,2100,0,100,NULL
+4,"Timber joist foundation",1850,1900,0,100,NULL

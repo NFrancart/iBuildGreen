@@ -1,0 +1,8 @@
+"id","name","min_year","max_year","min_floors","max_floors","isloadbearing"
+1,"Wood floor joists",1800,1955,0,100,NULL
+2,"Wood+steel floor joists",1900,1955,0,100,NULL
+3,"Brick vaults",1880,1930,0,100,NULL
+4,"Concrete cast in place",1930,1970,0,100,NULL
+5,"Hollow clay floor",1930,1970,0,100,NULL
+6,"Hollow core concrete",1930,1970,0,100,NULL
+7,"Hollow core prefab",1960,2100,0,100,NULL

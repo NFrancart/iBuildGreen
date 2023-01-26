@@ -1,0 +1,11 @@
+"id","name","min_year","max_year","min_floors","max_floors","isloadbearing"
+1,"Half-timbered masonry",1850,1905,0,100,True
+2,"Masonry - load bearing",1850,1975,0,100,True
+3,"Concrete cast in place",1930,1960,0,100,True
+4,"Concrete elements - load bearing",1950,2100,0,100,True
+5,"Masonry - non load bearing",1850,1975,0,100,False
+6,"Board partition",1850,1960,0,100,False
+7,"Drywall",1930,1975,0,100,False
+8,"Concrete elements - lightweight",1960,2100,0,100,False
+9,"Wood skeleton wall",1945,2100,0,100,False
+10,"Moulded wall",1930,1950,0,100,False
