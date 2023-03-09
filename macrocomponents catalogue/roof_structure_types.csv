@@ -1,0 +1,10 @@
+"id","name","min_year","max_year","min_pitch","max_pitch","min_width","max_width"
+1,"Gitterspær T0",1950,2100,10,45,0,4
+2,"Gitterspær T1",1950,2100,10,45,4,6
+3,"Gitterspær T2",1950,2100,10,45,6,12
+4,"Gitterspær T4",1950,2100,10,40,12,20
+5,"Hanebåndsspær-Manzard-Copenhagen",1800,1930,35,60,0,14
+6,"Flat wood",1930,2100,1,10,0,1000
+7,"Flat concrete",1960,2100,1,10,0,1000
+8,"Ridge board",1800,2100,0,90,0,1000
+9,"Top floor ceiling",1800,2100,0,90,0,1000
