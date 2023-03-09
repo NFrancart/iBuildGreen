@@ -1,1 +1,0 @@
-dbname=macrocomponents3 user=postgres password=19Ni93co44PG!
