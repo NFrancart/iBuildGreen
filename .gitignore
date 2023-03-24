@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 Modifying material amounts.ipynb
+Computing material intensity coefficients.ipynb
+*.gitignore*
+
